@@ -1,3 +1,4 @@
+# Word Problem
 class Calculator_prob
   def arithmatic_calculation()
     puts "Enter the Question"
